@@ -93,9 +93,9 @@ function getAmountOut(uint amountIn, uint reserveIn, uint reserveOut) public pur
 
 | Contract   | Address                                      |
 | ---------- | -------------------------------------------- |
-| SimpleSwap | `0x4787D1dC706c89020570BB88Ee380Fd4B682e009` |
-| TokenA     | `0xedFED3cF27894869a6C73c9B9404a3e826DFA07E` |
-| TokenB     | `0x8370b856eA384D7237C6CBA5f3F4421012170152` |
+| SimpleSwap | `0x90D04fD2D28A84286F097d7389120409DedCdDdd` |
+| TokenA     | `0x26A9e1A86Ee91eCBB0e3c3De3b3f57770B9F21e7` |
+| TokenB     | `0x9f64aF266c5F41970D7D528ca554Fd0D79A3ba21` |
 
 ---
 
